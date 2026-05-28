@@ -2,7 +2,7 @@
 
 A C++ console application developed for the **Ministry of Infrastructure of Rwanda** to manage and plan road infrastructure connecting the capital city Kigali to six secondary cities across the country.
 
-Built as part of a **Data Structures & Algorithms (DSA)** national exam project.
+
 
 ---
 
@@ -134,7 +134,4 @@ Roads currently planned or under construction (budget in Billion RWF):
 
 ---
 
-## Author
 
-Developed for the **DSA National Exam** — Republic of Rwanda  
-Ministry of Infrastructure Road Management System
